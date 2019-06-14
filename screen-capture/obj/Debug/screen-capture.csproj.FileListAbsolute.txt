@@ -1,0 +1,7 @@
+D:\Bao\pc-management\screen-capture\bin\Debug\screen-capture.exe.config
+D:\Bao\pc-management\screen-capture\bin\Debug\screen-capture.exe
+D:\Bao\pc-management\screen-capture\bin\Debug\screen-capture.pdb
+D:\Bao\pc-management\screen-capture\obj\Debug\screen-capture.csprojAssemblyReference.cache
+D:\Bao\pc-management\screen-capture\obj\Debug\screen-capture.csproj.CoreCompileInputs.cache
+D:\Bao\pc-management\screen-capture\obj\Debug\screen-capture.exe
+D:\Bao\pc-management\screen-capture\obj\Debug\screen-capture.pdb
